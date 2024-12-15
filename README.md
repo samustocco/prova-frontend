@@ -15,7 +15,4 @@ T'ho dipinta io
 Gialla come er sole
 Rossa come er core mio
 ```
-## Roma, Roma mia
-*Nun te fa incantà*
-_Tu sei nata grande_
-E grande hai da restà
+
